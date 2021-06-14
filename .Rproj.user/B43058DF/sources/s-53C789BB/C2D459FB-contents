@@ -49,7 +49,7 @@ detach(BWF_players)
 
 ## Eksplorasi Plot
 
-Berikut plot yang dibuat
+Berikut plot yang dibuat:
 
 ```{r plot, echo=FALSE}
 
@@ -156,9 +156,86 @@ ggplot(BWF_players, aes(x = Career))+
   ggtitle("Density Plot Career Pemain Bulu Tangkis")+
   theme(panel.background = element_blank())
 
+```
+Berikut untuk data bivariat
 
-#Bivariat
+```{r plot, echo=FALSE}
 
+#==========Bivariat AGE===============#
+
+#Bivariat Antara Age dan Height
+ggplot(BWF_players, aes(x = Height, y = Age))+
+  geom_point()+
+  xlab("Height")+
+  ylab("Umur")+
+  ggtitle("Scatterplot Hubungan Height dan Age")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Gender
+ggplot(BWF_players, aes(x = Gender,y=Age))+
+  geom_boxplot()+
+  xlab("Gender")+
+  ylab("Umur")+
+  ggtitle("Boxplot Antara Age dan Gender dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Category
+ggplot(BWF_players, aes(x = Category,y=Age))+
+  geom_boxplot()+
+  xlab("Category")+
+  ylab("Umur")+
+  ggtitle("Boxplot Antara Age dan Category dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Country
+# ggplot(BWF_players, aes(x = Country,y=Age))+
+#   geom_boxplot()+
+#   xlab("Country")+
+#   ylab("Umur")+
+#   ggtitle("Boxplot Antara Age dan Country dalam Permainan Bulu Tangkis")+
+#   theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Continent
+ggplot(BWF_players, aes(x = Continent,y=Age))+
+  geom_boxplot()+
+  xlab("Continent")+
+  ylab("Umur")+
+  ggtitle("Boxplot Antara Age dan Continent dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Hand
+ggplot(BWF_players, aes(x = Hand,y=Age))+
+  geom_boxplot()+
+  xlab("Hand")+
+  ylab("Umur")+
+  ggtitle("Boxplot Antara Age dan Hand dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Medals
+ggplot(BWF_players, aes(x = Age, y = Medals))+
+  geom_point()+
+  xlab("Age")+
+  ylab("Medals")+
+  ggtitle("Scatterplot Hubungan Age dan Medals")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan HRank
+ggplot(BWF_players, aes(x = Age, y = HRank))+
+  geom_point()+
+  xlab("Age")+
+  ylab("HRank")+
+  ggtitle("Scatterplot Hubungan Age dan HRank")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Multiple
+ggplot(BWF_players, aes(x = Multiple,y=Age))+
+  geom_boxplot()+
+  xlab("Multiple")+
+  ylab("Umur")+
+  ggtitle("Boxplot Antara Age dan Multiple dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Age dan Career
 ggplot(BWF_players, aes(x = Career, y = Age))+
   geom_point()+
   xlab("Career")+
@@ -166,11 +243,124 @@ ggplot(BWF_players, aes(x = Career, y = Age))+
   ggtitle("Scatterplot Hubungan Career dan Age")+
   theme(panel.background = element_blank())
 
-ggplot(BWF_players, aes(x = HRank, y = Medals))+
+#==========Bivariat Height===============#
+
+#Bivariat Antara Height dan Gender
+ggplot(BWF_players, aes(x = Gender,y=Height))+
+  geom_boxplot()+
+  xlab("Gender")+
+  ylab("Height")+
+  ggtitle("Boxplot Antara Height dan Gender dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Category
+ggplot(BWF_players, aes(x = Category,y=Height))+
+  geom_boxplot()+
+  xlab("Category")+
+  ylab("Height")+
+  ggtitle("Boxplot Antara Height dan Category dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Continent
+ggplot(BWF_players, aes(x = Continent,y=Height))+
+  geom_boxplot()+
+  xlab("Continent")+
+  ylab("Height")+
+  ggtitle("Boxplot Antara Height dan Continent dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Hand
+ggplot(BWF_players, aes(x = Hand,y=Height))+
+  geom_boxplot()+
+  xlab("Hand")+
+  ylab("Height")+
+  ggtitle("Boxplot Antara Height dan Hand dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Medals
+ggplot(BWF_players, aes(x = Height, y = Medals))+
+  geom_point()+
+  xlab("Height")+
+  ylab("Medals")+
+  ggtitle("Scatterplot Hubungan Height dan Medals")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan HRank
+ggplot(BWF_players, aes(x = Height, y = HRank))+
+  geom_point()+
+  xlab("Height")+
+  ylab("HRank")+
+  ggtitle("Scatterplot Hubungan Height dan HRank")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Multiple
+ggplot(BWF_players, aes(x = Multiple,y=Height))+
+  geom_boxplot()+
+  xlab("Multiple")+
+  ylab("Height")+
+  ggtitle("Boxplot Antara Height dan Multiple dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Height dan Career
+ggplot(BWF_players, aes(x = Height, y = Career))+
+  geom_point()+
+  xlab("Height")+
+  ylab("Career")+
+  ggtitle("Scatterplot Hubungan Height dan Career")+
+  theme(panel.background = element_blank())
+
+#==========Bivariat Medals===============#
+
+#Bivariat Antara Medals dan HRank
+ggplot(BWF_players, aes(x = Medals, y = HRank))+
+  geom_point()+
+  xlab("Medals")+
+  ylab("HRank")+
+  ggtitle("Scatterplot Hubungan Medals dan HRank")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Medals dan Multiple
+ggplot(BWF_players, aes(x = Multiple,y=Medals))+
+  geom_boxplot()+
+  xlab("Multiple")+
+  ylab("Medals")+
+  ggtitle("Boxplot Antara Medals dan Multiple dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara Medals dan Career
+ggplot(BWF_players, aes(x = Medals, y = Career))+
+  geom_point()+
+  xlab("Medals")+
+  ylab("Career")+
+  ggtitle("Scatterplot Hubungan Medals dan Career")+
+  theme(panel.background = element_blank())
+
+#==========Bivariat HRank===============#
+
+#Bivariat Antara HRank dan Multiple
+ggplot(BWF_players, aes(x = Multiple,y=HRank))+
+  geom_boxplot()+
+  xlab("Multiple")+
+  ylab("HRank")+
+  ggtitle("Boxplot Antara HRank dan Multiple dalam Permainan Bulu Tangkis")+
+  theme(panel.background = element_blank())
+
+#Bivariat Antara HRank dan Career
+ggplot(BWF_players, aes(x = HRank, y = Career))+
   geom_point()+
   xlab("HRank")+
-  ylab("Medals")+
-  ggtitle("Scatterplot Hubungan HRank dan Medals")+
+  ylab("Career")+
+  ggtitle("Scatterplot Hubungan HRank dan Career")+
+  theme(panel.background = element_blank())
+
+#==========Bivariat Multiple===============#
+
+#Bivariat Antara Multiple dan Career
+ggplot(BWF_players, aes(x = Career,y=Multiple))+
+  geom_boxplot()+
+  xlab("Career")+
+  ylab("Multiple")+
+  ggtitle("Boxplot Antara Multiple dan Career dalam Permainan Bulu Tangkis")+
   theme(panel.background = element_blank())
 
 str(BWF_players)

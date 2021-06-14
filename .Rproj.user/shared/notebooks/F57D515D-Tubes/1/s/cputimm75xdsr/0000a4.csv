@@ -1,4 +1,0 @@
-"0","xfit<-seq(min(BWF_players$Medals),max(BWF_players$Medals),length=40)"
-"0","yfit<-dnorm(xfit,mean=mean(BWF_players$Medals),sd=sd(BWF_players$Medals))"
-"0","yfit<-yfit*diff(h1$mids[1:2])*length(BWF_players$Medals)"
-"0","lines(xfit, yfit, col=""red"", lwd=2)"

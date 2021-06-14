@@ -19,7 +19,8 @@
         "object": "BWF_players",
         "environment": "",
         "contentUrl": "grid_resource/gridviewer.html?env=&obj=BWF_players&cache_key=2FF38AC4&max_cols=50",
-        "preview": 0
+        "preview": 0,
+        "source_window_id": "wy28eu3io3igd"
     },
     "folds": "",
     "lastKnownWriteTime": 7311982588382365271,

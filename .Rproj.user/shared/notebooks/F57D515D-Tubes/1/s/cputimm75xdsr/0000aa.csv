@@ -1,4 +1,0 @@
-"0","xfit<-seq(min(BWF_players$HRank),max(BWF_players$HRank),length=40)"
-"0","yfit<-dnorm(xfit,mean=mean(BWF_players$HRank),sd=sd(BWF_players$HRank))"
-"0","yfit<-yfit*diff(h1$mids[1:2])*length(BWF_players$HRank)"
-"0","lines(xfit, yfit, col=""red"", lwd=2)"

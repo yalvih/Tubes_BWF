@@ -1,7 +1,0 @@
-"0",""
-"0","ggplot(BWF_players, aes(x = HRank, y = Medals))+"
-"0","  geom_point()+"
-"0","  xlab(""HRank"")+"
-"0","  ylab(""Medals"")+"
-"0","  ggtitle(""Scatterplot Hubungan HRank dan Medals"")+"
-"0","  theme(panel.background = element_blank())"

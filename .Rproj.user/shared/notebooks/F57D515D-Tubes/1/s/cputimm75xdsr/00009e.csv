@@ -1,8 +1,0 @@
-"0",""
-"0","#Continent"
-"0",""
-"0","ggplot(BWF_players, aes(x = Continent,fill=factor(Continent)))+"
-"0","  geom_bar()+"
-"0","  ggtitle(""Barplot Asal Kontinent Pemain Bulu Tangkis"")+"
-"0","  guides(fill=guide_legend(""Country""))+"
-"0","  theme_void()"
