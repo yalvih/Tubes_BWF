@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara Height dan HRank"
+"0","ggplot(BWF_players, aes(x = Height, y = HRank))+"
+"0","  geom_point()+"
+"0","  xlab(""Height"")+"
+"0","  ylab(""HRank"")+"
+"0","  ggtitle(""Scatterplot Hubungan Height dan HRank"")+"
+"0","  theme(panel.background = element_blank())"

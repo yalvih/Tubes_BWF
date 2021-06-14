@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara HRank dan Career"
+"0","ggplot(BWF_players, aes(x = HRank, y = Career))+"
+"0","  geom_point()+"
+"0","  xlab(""HRank"")+"
+"0","  ylab(""Career"")+"
+"0","  ggtitle(""Scatterplot Hubungan HRank dan Career"")+"
+"0","  theme(panel.background = element_blank())"

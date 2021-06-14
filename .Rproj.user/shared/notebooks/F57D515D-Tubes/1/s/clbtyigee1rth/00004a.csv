@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara Height dan Hand"
+"0","ggplot(BWF_players, aes(x = Hand,y=Height))+"
+"0","  geom_boxplot()+"
+"0","  xlab(""Hand"")+"
+"0","  ylab(""Height"")+"
+"0","  ggtitle(""Boxplot Antara Height dan Hand dalam Permainan Bulu Tangkis"")+"
+"0","  theme(panel.background = element_blank())"

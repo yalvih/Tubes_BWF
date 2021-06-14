@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara Age dan Category"
+"0","ggplot(BWF_players, aes(x = Category,y=Age))+"
+"0","  geom_boxplot()+"
+"0","  xlab(""Category"")+"
+"0","  ylab(""Umur"")+"
+"0","  ggtitle(""Boxplot Antara Age dan Category dalam Permainan Bulu Tangkis"")+"
+"0","  theme(panel.background = element_blank())"

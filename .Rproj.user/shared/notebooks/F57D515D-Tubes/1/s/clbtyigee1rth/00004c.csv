@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara Height dan Medals"
+"0","ggplot(BWF_players, aes(x = Height, y = Medals))+"
+"0","  geom_point()+"
+"0","  xlab(""Height"")+"
+"0","  ylab(""Medals"")+"
+"0","  ggtitle(""Scatterplot Hubungan Height dan Medals"")+"
+"0","  theme(panel.background = element_blank())"

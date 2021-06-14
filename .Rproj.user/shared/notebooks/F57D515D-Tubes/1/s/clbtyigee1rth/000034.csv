@@ -1,0 +1,8 @@
+"0",""
+"0","#Bivariat Antara Age dan Gender"
+"0","ggplot(BWF_players, aes(x = Gender,y=Age))+"
+"0","  geom_boxplot()+"
+"0","  xlab(""Gender"")+"
+"0","  ylab(""Umur"")+"
+"0","  ggtitle(""Boxplot Antara Age dan Gender dalam Permainan Bulu Tangkis"")+"
+"0","  theme(panel.background = element_blank())"
