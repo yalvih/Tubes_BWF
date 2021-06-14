@@ -1,0 +1,7 @@
+"0",""
+"0","#Age"
+"0",""
+"0","ggplot(BWF_players, aes(x = Age))+"
+"0","  geom_density(color=""orange"",fill=""orange"")+"
+"0","  ggtitle(""Density Plot Umur Pemain Bulu Tangkis"")+"
+"0","  theme(panel.background = element_blank())"

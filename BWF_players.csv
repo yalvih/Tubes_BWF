@@ -1,0 +1,291 @@
+"","Name","Age","Height","Gender","Category","Country","Continent","Hand","Medals","HRank","Multiple","Career"
+"1","Aaron Chia",24,169,"M","MD","Malaysia","Asia","Right",1,8,"0",129
+"2","Adam Hall",25,186,"M","MD","Scotland","Europe","Right",0,36,"1",243
+"3","Ade Yusuf Santoso",28,180,"M","MD","Indonesia","Asia","Right",1,16,"0",125
+"5","Akane Yamaguchi",23,156,"F","WS","Japan","Asia","Right",11,1,"0",321
+"6","Akira Koga",27,166,"M","MD","Japan","Asia","Right",1,28,"1",890
+"7","Alexander Dunn",22,179,"M","MD","Scotland","Europe","Right",0,38,"1",174
+"8","Alexandra Boje",21,173,"F","XD","Denmark","Europe","Right",3,17,"1",210
+"9","Alina Davletova",22,163,"F","XD","Russia","Europe","Right",1,19,"1",373
+"10","Amalie Magelund",20,166,"F","XD","Denmark","Europe","Right",2,31,"1",171
+"11","An Se-young",19,170,"F","WS","Korea","Asia","Right",1,8,"0",146
+"12","Anders Antonsen",23,183,"M","MS","Denmark","Europe","Right",8,3,"0",219
+"13","Anders Skaarup Rasmussen",32,189,"M","MD","Denmark","Europe","Right",8,5,"1",349
+"14","Anne Tran",24,166,"F","WD","France","Europe","Right",0,18,"1",327
+"15","Anthony Sinisuka Ginting",24,171,"M","MS","Indonesia","Asia","Right",5,3,"0",192
+"16","Apriyani Rahayu",22,163,"F","WD","Indonesia","Asia","Right",1,3,"1",227
+"17","Arisa Higashino",24,160,"F","XD","Japan","Asia","Right",2,3,"1",155
+"18","Ashwini Ponnappa",31,164,"F","XD","India","Asia","Right",6,10,"1",276
+"19","Aya Ohori",24,169,"F","WS","Japan","Asia","Left",5,13,"0",180
+"20","Ayaka Takahashi",31,164,"F","WD","Japan","Asia","Right",7,1,"0",471
+"21","Ayako Sakuramoto",125,166,"F","WD","Japan","Asia","Left",1,9,"0",128
+"22","Baek Ha-na",20,164,"F","WD","Korea","Asia","Right",3,10,"1",154
+"24","Ben Lane",23,175,"M","MD","England","Europe","Left",0,18,"1",283
+"25","Bodin Isara",30,177,"M","MD","Thailand","Asia","Left",1,7,"1",253
+"26","Brian Yang",19,180,"M","MS","Canada","Pan Am","Right",12,49,"0",202
+"27","Brice Leverdez",35,178,"M","MS","France","Europe","Right",1,19,"1",405
+"28","Brittney Tam",23,167,"F","WS","Canada","Pan Am","Right",9,43,"1",129
+"29","Busanan Ongbamrungphan",25,168,"F","WS","Thailand","Asia","Right",4,11,"0",257
+"30","Cai Yan Yan",21,171,"F","WS","China","Asia","Right",4,14,"0",75
+"31","Carolina Marin",27,172,"F","WS","Spain","Europe","Left",9,1,"0",423
+"32","Carsten Mogensen",37,185,"M","MD","Denmark","Europe","Right",13,1,"0",550
+"33","Chae Yu-jung",25,163,"F","XD","Korea","Asia","Left",5,5,"1",354
+"34","Chan Peng Soon",32,170,"M","XD","Malaysia","Asia","Right",3,3,"0",453
+"36","Chang Ye-na",31,172,"F","WD","Korea","Asia","Left",5,2,"1",504
+"37","Chayanit Chaladchalam",30,163,"F","WD","Thailand","Asia","Left",1,14,"0",151
+"39","Chen Long",32,187,"M","MS","China","Asia","Right",19,1,"0",441
+"40","Chen QingChen",23,164,"F","WD","China","Asia","Right",20,1,"1",470
+"41","Chen Xiao Xin",23,170,"F","WS","China","Asia","Right",2,16,"0",78
+"42","Chen YuFei",23,171,"F","WS","China","Asia","Right",11,1,"0",233
+"43","Cheng Chi Ya",28,165,"F","XD","Taiwan","Asia","Right",0,22,"1",165
+"44","Cheryl Seinen",25,166,"F","WD","Netherlands","Europe","Right",1,18,"1",289
+"45","Cheung Ngan Yi",68,168,"F","WS","Hong Kong China","Asia","Right",0,13,"0",143
+"46","Chiharu Shida",24,162,"F","WD","Japan","Asia","Right",1,9,"1",160
+"47","Chloe Birch",25,168,"F","WD","England","Europe","Right",0,14,"1",273
+"48","Chloe Magee",33,165,"F","XD","Ireland","Europe","Right",0,21,"1",449
+"49","Choi Sol-gyu",25,181,"M","MD","Korea","Asia","Right",4,7,"1",355
+"50","Chou Tien Chen",31,180,"M","MS","Taiwan","Asia","Right",0,2,"0",405
+"51","Chow Mei Kuan",26,161,"F","WD","Malaysia","Asia","Right",2,10,"1",210
+"52","Chris Adcock",31,183,"M","XD","England","Europe","Left",6,4,"1",468
+"53","Chris Langridge",35,176,"M","MD","England","Europe","Right",2,12,"1",485
+"54","Christina Pedersen",34,178,"F","XD","Denmark","Europe","Right",16,1,"1",708
+"55","Christo Popov",19,179,"M","MD","France","Europe","Left",3,39,"1",239
+"56","Daniel Marthin",19,182,"M","MD","Indonesia","Asia","Right",3,42,"1",143
+"57","Debby Susanto",31,161,"F","XD","Indonesia","Asia","Right",3,2,"0",255
+"58","Dechapol Puavaranukroh",23,169,"M","XD","Thailand","Asia","Right",3,2,"1",314
+"59","Della Destiara Haris",28,170,"F","WD","Indonesia","Asia","Right",0,9,"0",207
+"60","Delphine Delrue",22,170,"F","XD","France","Europe","Right",2,10,"1",276
+"62","Dong Wen Jing",22,170,"F","WD","China","Asia","Right",1,24,"1",30
+"63","Du Yue",23,168,"F","WD","China","Asia","Right",12,5,"1",272
+"65","Emilie Lefel",32,165,"F","WD","France","Europe","Left",0,18,"1",308
+"66","Eom Hye-won",29,164,"F","XD","Korea","Asia","Right",2,5,"1",253
+"67","Evgeniya Kosetskaya",26,176,"F","WS","Russia","Europe","Right",0,20,"1",362
+"68","Fabienne Deprez",29,171,"F","WS","Germany","Europe","Left",2,45,"1",204
+"69","Fajar Alfian",26,177,"M","MD","Indonesia","Asia","Right",3,5,"0",189
+"70","Felix Burestedt",26,192,"M","MS","Sweden","Europe","Right",0,56,"0",162
+"71","Feng Xue Ying",22,169,"F","WD","China","Asia","Right",1,24,"1",42
+"72","Fitriani Fitriani",22,155,"F","WS","Indonesia","Asia","Right",0,20,"0",712
+"73","Freja Ravn",21,168,"F","WD","Denmark","Europe","Right",2,26,"0",141
+"74","Gabriela Stoeva",26,168,"F","WD","Bulgaria","Europe","Right",4,8,"0",386
+"75","Gabrielle Adcock",30,167,"F","XD","England","Europe","Right",5,4,"1",435
+"76","Gloria Emanuelle Widjaja",27,182,"F","XD","Indonesia","Asia","Right",1,6,"0",195
+"77","Goh Liu Ying",31,166,"F","XD","Malaysia","Asia","Right",4,3,"0",379
+"78","Goh Soon Huat",30,178,"M","XD","Malaysia","Asia","Right",0,6,"1",221
+"79","Goh Sze Fei",23,171,"M","MD","Malaysia","Asia","Right",0,23,"0",119
+"80","Goh V Shem",31,179,"M","MD","Malaysia","Asia","Right",2,1,"0",337
+"81","Gregoria Mariska Tunjung",21,166,"F","WS","Indonesia","Asia","Right",1,13,"0",149
+"82","Greysia Polii",33,164,"F","WD","Indonesia","Asia","Right",3,2,"1",490
+"83","Gronya Somerville",26,170,"F","WD","Australia","Oceania","Right",16,18,"1",284
+"84","Hafiz Faizal",26,170,"M","XD","Indonesia","Asia","Right",1,6,"0",202
+"85","Han ChengKai",23,183,"M","MD","China","Asia","Right",8,5,"1",140
+"86","Hans-Kristian Solberg Vittinghus",35,180,"M","MS","Denmark","Europe","Right",12,8,"0",346
+"87","He BingJiao",24,169,"F","WS","China","Asia","Left",8,6,"0",212
+"88","He Jiting",23,181,"M","XD","China","Asia","Right",11,8,"1",213
+"89","Hendra Setiawan",36,183,"M","MD","Indonesia","Asia","Right",21,1,"0",591
+"90","Heo Kwang-hee",25,180,"M","MS","Korea","Asia","Right",2,44,"0",151
+"91","Hiroyuki Endo",34,172,"M","MD","Japan","Asia","Right",3,2,"0",380
+"92","Hoo Pang Ron",23,178,"M","XD","Malaysia","Asia","Right",0,26,"1",82
+"93","Hsu Ya Ching",29,165,"F","WD","Taiwan","Asia","Right",2,17,"1",254
+"94","Hu Ling Fang",23,171,"F","WD","Taiwan","Asia","Right",0,28,"1",167
+"95","Huang DongPing",26,165,"F","XD","China","Asia","Right",6,1,"1",310
+"96","Huang Kai Xiang",25,175,"M","MD","China","Asia","Right",7,10,"1",235
+"97","Huang YaQiong",27,165,"F","XD","China","Asia","Right",7,1,"1",423
+"98","Huang Yu Xiang",28,180,"M","MS","China","Asia","Right",4,20,"0",1102
+"99","Iris Wang",26,160,"F","WS","USA","Pan Am","Right",0,30,"1",235
+"100","Isabel Herttrich",29,166,"F","XD","Germany","Europe","Right",2,10,"1",359
+"101","Ivan Sozonov",31,184,"M","MD","Russia","Europe","Left",1,7,"1",453
+"102","Jan O Jorgensen",33,185,"M","MS","Denmark","Europe","Right",13,2,"0",429
+"103","Jason Anthony Ho-Shue",22,182,"M","MD","Canada","Pan Am","Right",14,29,"1",220
+"104","Jelle Maas",30,183,"M","MD","Netherlands","Europe","Right",0,26,"1",250
+"105","Jessica Pugh",24,165,"F","XD","England","Europe","Right",0,21,"1",245
+"106","Jia YiFan",23,170,"F","WD","China","Asia","Left",13,1,"1",276
+"107","Joachim Fischer Nielsen",42,193,"M","XD","Denmark","Europe","Left",4,1,"1",571
+"108","Jonatan Christie",23,179,"M","MS","Indonesia","Asia","Right",8,4,"0",216
+"109","Jones Ralfy Jansen",28,175,"M","MD","Germany","Europe","Right",0,22,"1",235
+"110","Jongkholphan Kititharakul",28,171,"F","WD","Thailand","Asia","Right",4,6,"1",258
+"111","Josephine Wu",26,169,"F","XD","Canada","Pan Am","Right",12,27,"1",136
+"112","Joshua Hurlburt-Yu",26,184,"M","XD","Canada","Pan Am","Right",4,29,"1",104
+"113","Julie Dawall Jakobsen",23,171,"F","WS","Denmark","Europe","Right",7,47,"1",259
+"114","Jung Kyung-eun",31,172,"F","WD","Korea","Asia","Right",2,2,"1",435
+"115","Kamilla Rytter Juhl",37,183,"F","WD","Denmark","Europe","Left",15,2,"1",645
+"117","Kanta Tsuneyama",24,173,"M","MS","Japan","Asia","Right",0,10,"0",151
+"118","Kantaphon Wangcharoen",22,173,"M","MS","Thailand","Asia","Right",0,12,"0",149
+"119","Keigo Sonoda",31,169,"M","MD","Japan","Asia","Right",2,2,"1",337
+"120","Kenta Nishimoto",26,180,"M","MS","Japan","Asia","Right",2,9,"0",169
+"121","Kento Momota",26,175,"M","MS","Japan","Asia","Left",8,1,"0",342
+"122","Kevin Sanjaya Sukamuljo",25,170,"M","MD","Indonesia","Asia","Right",4,1,"0",350
+"123","Kidambi Srikanth",28,177,"M","MS","India","Asia","Right",4,1,"0",255
+"124","Kim Astrup",29,185,"M","MD","Denmark","Europe","Left",10,5,"1",300
+"125","Kim Ga-eun",23,172,"F","WS","Korea","Asia","Right",0,15,"0",147
+"126","Kim Gi-jung",30,179,"M","MD","Korea","Asia","Right",8,2,"1",387
+"127","Kim Hye-rin",26,171,"F","WD","Korea","Asia","Right",1,9,"1",187
+"128","Kim Hyomin",25,174,"F","WS","Korea","Asia","Right",2,22,"0",178
+"130","Kim So-yeong",28,173,"F","WD","Korea","Asia","Right",3,4,"1",291
+"131","Kirsty Gilmour",27,168,"F","WS","Scotland","Europe","Right",0,14,"0",351
+"132","Kisona Selvaduray",22,162,"F","WS","Malaysia","Asia","Right",1,54,"0",83
+"133","Ko Sung-hyun",34,180,"M","MD","Korea","Asia","Right",7,1,"1",658
+"134","Koki Watanabe",22,166,"M","MS","Japan","Asia","Right",0,34,"0",118
+"135","Kong Hee Yong",24,166,"F","WD","Korea","Asia","Right",1,4,"1",188
+"136","Kristen Tsai",25,167,"F","WD","Canada","Pan Am","Right",6,22,"1",147
+"137","Kristin Kuuba",24,176,"F","WS","Estonia","Europe","Right",0,51,"1",309
+"138","Kunlavut Vitidsarn",20,173,"M","MS","Thailand","Asia","Right",5,22,"0",281
+"139","Lai Pei Jing",28,160,"F","XD","Malaysia","Asia","Right",2,9,"0",223
+"140","Lakshya Sen",19,179,"M","MS","India","Asia","Right",2,23,"0",156
+"141","Lauren Smith",29,171,"F","WD","England","Europe","Right",1,7,"1",427
+"142","Lea Palermo",27,173,"F","WD","France","Europe","Right",1,27,"1",199
+"143","Lee Cheuk Yiu",24,178,"M","MS","Hong Kong China","Asia","Right",0,16,"0",137
+"144","Lee Chong Wei",38,172,"M","MS","Malaysia","Asia","Right",8,1,"0",715
+"145","Lee Jhe Huei",27,180,"M","MD","Taiwan","Asia","Right",1,7,"1",201
+"146","Lee Meng Yean",27,165,"F","WD","Malaysia","Asia","Right",1,10,"1",170
+"147","Lee So-hee",26,171,"F","WD","Korea","Asia","Right",7,2,"1",401
+"148","Lee Yang",25,178,"M","MD","Taiwan","Asia","Right",1,3,"1",258
+"149","Lee Yong-dae",32,176,"M","MD","Korea","Asia","Right",20,1,"1",817
+"150","Lee Zii Jia",23,186,"M","MS","Malaysia","Asia","Right",1,8,"0",166
+"151","Leo Rolly Carnando",19,171,"M","MD","Indonesia","Asia","Right",5,42,"1",171
+"152","Li JunHui",25,195,"M","MD","China","Asia","Right",11,1,"0",279
+"153","Li Wen Mei",21,172,"F","WD","China","Asia","Right",1,9,"0",79
+"154","Li YinHui",24,172,"F","WD","China","Asia","Right",7,3,"1",234
+"155","Lianne Tan",30,163,"F","WS","Belgium","Europe","Right",0,38,"0",230
+"156","Liao Min Chun",33,180,"M","MD","Taiwan","Asia","Right",0,10,"1",266
+"157","Liew Daren",33,178,"M","MS","Malaysia","Asia","Right",1,10,"0",221
+"158","Liliyana Natsir",35,168,"F","XD","Indonesia","Asia","Right",14,1,"0",600
+"159","Lin Dan",37,178,"M","MS","China","Asia","Left",33,1,"0",666
+"160","Linda Efler",26,178,"F","XD","Germany","Europe","Right",0,12,"1",189
+"161","Linda Zetchiri",33,167,"F","WS","Bulgaria","Europe","Left",0,21,"0",387
+"162","Line Christophersen",21,176,"F","WS","Denmark","Europe","Right",3,27,"0",143
+"163","Line Hojmark Kjaersfeldt",27,174,"F","WS","Denmark","Europe","Right",11,16,"0",292
+"164","Liu Cheng",29,184,"M","MD","China","Asia","Right",9,2,"1",263
+"165","Liu Xuan Xuan",20,168,"F","WD","China","Asia","Right",5,16,"1",128
+"166","Liu YuChen",25,193,"M","MD","China","Asia","Right",11,1,"1",326
+"167","Loh Kean Yew",23,175,"M","MS","Singapore","Asia","Right",0,27,"0",134
+"168","Lu Ching Yao",27,190,"M","MD","Taiwan","Asia","Right",0,10,"1",264
+"170","Luis Enrique Penalver",25,178,"M","MS","Spain","Europe","Right",1,47,"0",236
+"171","Mads Conrad-Petersen",33,186,"M","MD","Denmark","Europe","Right",10,4,"0",315
+"172","Maiken Fruergaard",25,169,"F","WD","Denmark","Europe","Right",9,14,"1",194
+"173","Maneepong Jongjit",30,179,"M","MD","Thailand","Asia","Right",2,7,"1",227
+"174","Marcus  Fernaldi Gideon",30,168,"M","MD","Indonesia","Asia","Right",4,1,"0",373
+"175","Marcus Ellis",31,175,"M","MD","England","Europe","Right",4,7,"1",496
+"176","Marie Batomene",26,165,"F","WS","France","Europe","Right",0,58,"1",221
+"177","Mark Caljouw",26,184,"M","MS","Netherlands","Europe","Right",0,25,"0",241
+"178","Mark Lamsfuss",27,186,"M","XD","Germany","Europe","Right",0,10,"1",312
+"179","Marvin Seidel",25,190,"M","MD","Germany","Europe","Right",0,12,"1",295
+"180","Mathias Boe",40,185,"M","MD","Denmark","Europe","Left",15,1,"0",643
+"181","Mathias Christiansen",27,186,"M","XD","Denmark","Europe","Right",7,4,"1",324
+"182","Mayu Matsumoto",25,177,"F","WD","Japan","Asia","Right",3,1,"1",183
+"183","Melati Daeva Oktavianti",26,168,"F","XD","Indonesia","Asia","Right",2,4,"0",225
+"184","Mette Poulsen",27,175,"F","WD","Denmark","Europe","Left",5,29,"1",221
+"185","Mia Blichfeldt",23,172,"F","WS","Denmark","Europe","Right",10,11,"0",204
+"186","Michelle Li",29,172,"F","WS","Canada","Pan Am","Right",15,8,"0",460
+"187","Misaki Matsutomo",29,159,"F","WD","Japan","Asia","Right",7,1,"1",549
+"188","Mohammad Ahsan",33,173,"M","MD","Indonesia","Asia","Right",10,1,"0",423
+"189","Muhammad Rian Aardianto",25,175,"M","MD","Indonesia","Asia","Right",3,5,"0",201
+"191","Mychelle Crhystine Bandaso",23,165,"F","XD","Indonesia","Asia","Left",0,32,"1",132
+"192","Nami Matsuyama",22,166,"F","WD","Japan","Asia","Right",2,9,"1",179
+"193","Nelakurihi Sikki Reddy",27,168,"F","WD","India","Asia","Left",4,17,"1",240
+"194","Neshilan Yigit",27,180,"F","WS","Turkey","Europe","Right",4,28,"1",465
+"195","Ng Ka Long Angus",26,181,"M","MS","Hong Kong China","Asia","Right",1,6,"0",291
+"199","Niclas Nohr",29,185,"M","XD","Denmark","Europe","Left",4,16,"1",254
+"200","Nipitphon Phuangphuapet",30,175,"M","XD","Thailand","Asia","Right",0,11,"1",293
+"201","Nitchaon Jindapol",30,163,"F","WS","Thailand","Asia","Right",4,10,"0",240
+"202","Nozomi Okuhara",26,156,"F","WS","Japan","Asia","Right",6,1,"0",328
+"203","Nur Izzuddin",23,175,"M","MD","Malaysia","Asia","Right",0,23,"0",71
+"204","Nyl Yakura",28,170,"M","MD","Canada","Pan Am","Right",19,29,"1",181
+"205","Ong Yew Sin",26,181,"M","MD","Malaysia","Asia","Right",0,14,"0",160
+"206","Ou Xuan Yi",27,189,"M","MD","China","Asia","Right",1,16,"1",99
+"207","Pablo Abian",35,178,"M","MS","Spain","Europe","Right",2,20,"0",499
+"208","Pai Yu Po",30,173,"F","WS","Taiwan","Asia","Right",0,20,"1",186
+"210","Peter Kaesbauer",33,187,"M","MD","Germany","Europe","Right",0,21,"1",351
+"211","Phataimas Muenwong",25,156,"F","WD","Thailand","Asia","Right",1,14,"0",139
+"212","Phillip Chew",26,172,"M","MD","USA","Pan Am","Right",2,20,"1",270
+"213","Phittayaporn Chaiwan ",20,164,"F","WS","Thailand","Asia","Right",2,28,"0",227
+"215","Pornpawee Chochuwong",23,170,"F","WS","Thailand","Asia","Right",2,10,"0",205
+"216","Porntip Buranaprasertsuk",29,165,"F","WS","Thailand","Asia","Right",2,8,"0",299
+"217","Pramudya Kusumawardana",20,175,"M","MD","Indonesia","Asia","Right",0,44,"1",82
+"218","Praveen Jordan",27,181,"M","XD","Indonesia","Asia","Right",4,2,"0",266
+"219","Pusarla Venkata Sindhu",25,179,"F","WS","India","Asia","Right",5,2,"0",359
+"220","Puttita Supajirakul",25,183,"F","WD","Thailand","Asia","Right",3,9,"1",226
+"222","Rachel Honderich",25,175,"F","WD","Canada","Pan Am","Right",7,22,"1",226
+"223","Rasmus Gemke",24,185,"M","MS","Denmark","Europe","Right",3,12,"0",129
+"224","Ratchanok Intanon",26,169,"F","WS","Thailand","Asia","Right",8,1,"0",412
+"225","Rawinda Prajongjai",27,164,"F","WD","Thailand","Asia","Right",4,6,"1",214
+"226","Ribka Sugiarto",21,160,"F","WD","Indonesia","Asia","Right",1,32,"0",136
+"227","Rinov Rivaldy",21,170,"M","XD","Indonesia","Asia","Right",2,16,"1",188
+"228","Rizki Amelia Pradipta",30,171,"F","WD","Indonesia","Asia","Right",0,6,"0",208
+"229","Robin Tabeling",27,180,"M","XD","Netherlands","Europe","Right",0,14,"1",255
+"230","Rodion Alimov",23,185,"M","XD","Russia","Europe","Right",1,24,"1",350
+"231","Ronan Labar",32,191,"M","XD","France","Europe","Right",0,20,"1",377
+"232","Ruben Jille",24,178,"M","MD","Netherlands","Europe","Right",0,36,"1",245
+"233","Ruselli Hartawan",23,160,"F","WS","Indonesia","Asia","Right",0,34,"0",133
+"235","Sabrina Jaquet",33,169,"F","WS","Switzerland","Europe","Right",0,30,"1",361
+"236","Saena Kawakami",23,160,"F","WS","Japan","Asia","Right",0,15,"0",109
+"237","Sai Praneeth Bhamidipati",28,176,"M","MS","India","Asia","Right",1,10,"0",226
+"238","Saina Nehwal",31,165,"F","WS","India","Asia","Right",5,1,"0",447
+"239","Sam Magee",31,183,"M","XD","Ireland","Europe","Right",1,21,"1",310
+"240","Sameer Verma",26,170,"M","MS","India","Asia","Right",0,11,"0",181
+"241","Sapsiree Taerattanachai",29,169,"F","XD","Thailand","Asia","Right",5,2,"1",453
+"242","Sara Thygesen",30,172,"F","WD","Denmark","Europe","Right",10,14,"1",290
+"243","Satwiksairaj Rankireddy",20,184,"M","MD","India","Asia","Right",1,7,"1",210
+"244","Savitree Amitrapai",32,163,"F","XD","Thailand","Asia","Right",4,10,"1",317
+"245","Sayaka Hirota",26,170,"F","WD","Japan","Asia","Right",5,1,"0",261
+"246","Sayaka Takahashi",28,168,"F","WS","Japan","Asia","Left",2,10,"0",235
+"247","Sean Vendy",25,181,"M","MD","England","Europe","Right",0,18,"1",197
+"248","Selena Piek",29,166,"F","WD","Netherlands","Europe","Right",2,7,"1",496
+"249","Seo Seung-jae",23,182,"M","XD","Korea","Asia","Left",3,5,"1",309
+"250","Setyana Mapasa",25,163,"F","WD","Australia","Oceania","Left",9,18,"1",217
+"251","Shesar Hiren Rhustavito",27,170,"M","MS","Indonesia","Asia","Right",2,17,"0",147
+"252","Shevon Jemie Lai",27,169,"F","XD","Malaysia","Asia","Left",2,6,"1",187
+"253","Shi YuQi",25,184,"M","MS","China","Asia","Right",8,2,"0",208
+"254","Shin Baek-cheol",31,186,"M","MD","Korea","Asia","Right",8,3,"1",444
+"255","Shin Seung-chan",26,173,"F","WD","Korea","Asia","Right",7,2,"1",437
+"258","Sitthikom Thammasin",26,185,"M","MS","Thailand","Asia","Right",0,21,"0",161
+"259","Soh Wooi Yik",23,183,"M","MD","Malaysia","Asia","Right",1,8,"0",130
+"260","Soniia Cheah",27,175,"F","WS","Malaysia","Asia","Right",2,23,"0",144
+"261","Sony Dwi Kuncoro",36,174,"M","MS","Indonesia","Asia","Right",9,3,"0",350
+"262","Stefani Stoeva",25,173,"F","WD","Bulgaria","Europe","Right",5,8,"1",511
+"263","Su Ching Heng",28,168,"M","MD","Taiwan","Asia","Right",0,10,"1",126
+"264","Sung Ji-hyun",29,175,"F","WS","Korea","Asia","Right",7,2,"0",384
+"265","Supanida Katethong",23,163,"F","WS","Thailand","Asia","Left",0,45,"1",140
+"266","Tai Tzu Ying",26,162,"F","WS","Taiwan","Asia","Right",5,1,"0",409
+"268","Takeshi Kamura",31,169,"M","MD","Japan","Asia","Right",2,2,"1",325
+"269","Takuro Hoki",25,166,"M","MD","Japan","Asia","Right",1,8,"1",146
+"270","Takuto Inoue",26,162,"M","MD","Japan","Asia","Right",1,7,"1",180
+"271","Tan Kian Meng",27,185,"M","XD","Malaysia","Asia","Right",0,9,"1",177
+"272","Tan Qiang",22,175,"M","MD","China","Asia","Right",5,10,"1",95
+"273","Tan Wee Kiong",31,176,"M","MD","Malaysia","Asia","Right",4,1,"0",378
+"274","Tang Chun Man",26,178,"M","XD","Hong Kong China","Asia","Left",0,2,"1",222
+"275","Teo Ee Yi",28,174,"M","MD","Malaysia","Asia","Right",2,14,"0",203
+"276","Thinaah Muralitharan",23,164,"F","WD","Malaysia","Asia","Right",0,19,"1",127
+"277","Thom Gicquel",22,186,"M","XD","France","Europe","Right",3,10,"1",257
+"278","Toby Penty",28,191,"M","MS","England","Europe","Left",0,43,"0",201
+"279","Toma Junior Popov",22,196,"M","MS","France","Europe","Right",3,33,"1",331
+"280","Tommy Sugiarto",33,175,"M","MS","Indonesia","Asia","Right",3,3,"0",354
+"281","Tontowi Ahmad",33,183,"M","XD","Indonesia","Asia","Right",6,1,"0",408
+"282","Tse Ying Suet",29,166,"F","XD","Hong Kong China","Asia","Left",0,2,"1",370
+"283","Viktor Axelsen",27,194,"M","MS","Denmark","Europe","Right",15,1,"0",389
+"284","Vincent Wong Wing Ki",31,180,"M","MS","Hong Kong China","Asia","Right",0,10,"0",226
+"285","Vivian Hoo",31,165,"F","WD","Malaysia","Asia","Right",5,9,"0",241
+"286","Vladimir Ivanov",33,197,"M","MD","Russia","Europe","Right",1,7,"1",506
+"287","Vu Thi Trang",290,165,"F","WS","Vietnam","Asia","Right",0,34,"1",215
+"288","Wahyu Nayaka Arya Pangkaryanira",28,176,"M","MD","Indonesia","Asia","Right",1,16,"0",131
+"289","Wakana Nagahara",15,168,"F","WD","Japan","Asia","Right",3,1,"1",216
+"291","Wang Chi Lin",26,188,"M","MD","Taiwan","Asia","Right",2,3,"1",400
+"292","Wang Tzu Wei",26,178,"M","MS","Taiwan","Asia","Right",2,9,"0",258
+"293","Wang YiLyu",26,185,"M","XD","China","Asia","Right",6,1,"1",315
+"295","Xia Yu Ting",21,172,"F","WD","China","Asia","Right",4,16,"1",99
+"296","Yang Po Han",27,172,"M","MD","Taiwan","Asia","Left",0,10,"1",168
+"297","Yang Po Hsuan",24,186,"M","MD","Taiwan","Asia","Right",1,56,"1",115
+"298","Yap Cheng Wen",26,154,"F","WD","Malaysia","Asia","Left",0,17,"0",138
+"299","Yeo Jia Min",22,163,"F","WS","Singapore","Asia","Right",0,26,"0",160
+"301","Yip Pui Yin",33,164,"F","WS","Hong Kong China","Asia","Right",1,8,"0",230
+"302","Yugo Kobayashi",25,175,"M","MD","Japan","Asia","Left",1,8,"1",150
+"303","Yuki Fukushima",27,164,"F","WD","Japan","Asia","Right",5,1,"0",284
+"304","Yuki Kaneko",26,179,"M","XD","Japan","Asia","Left",1,7,"1",195
+"305","Yukiko Takahata",23,159,"F","WD","Japan","Asia","Right",0,9,"0",103
+"306","Yuta Watanabe",23,167,"M","MD","Japan","Asia","Left",2,4,"1",298
+"307","Yvonne Li",22,171,"F","WS","Germany","Europe","Right",0,23,"1",251
+"308","Zhang BeiWen",30,169,"F","WS","USA","Pan Am","Right",0,9,"0",296
+"309","Zhang Nan",31,184,"M","XD","China","Asia","Right",22,1,"1",647
+"310","Zhang Yi Man",24,168,"F","WS","China","Asia","Right",0,32,"0",660
+"311","Zheng SiWei",24,175,"M","XD","China","Asia","Right",16,1,"1",391
+"312","Zheng Yu",25,175,"F","WD","China","Asia","Right",2,9,"0",70
+"313","Zhou HaoDong",23,180,"M","MD","China","Asia","Right",8,5,"1",133

@@ -1,0 +1,3 @@
+"0","h1 <- hist(BWF_players$Medals, "
+"0","           main = ""Peraihan Medali Emas oleh Pemain"","
+"0","           xlab = ""Jumlah Medali"")"
