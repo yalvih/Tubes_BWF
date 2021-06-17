@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Age dan Hand"
-"0","ggplot(BWF_players, aes(x = Hand,y=Age))+"
-"0","  geom_boxplot()+"
-"0","  xlab(""Hand"")+"
-"0","  ylab(""Umur"")+"
-"0","  ggtitle(""Boxplot Antara Age dan Hand dalam Permainan Bulu Tangkis"")+"
-"0","  theme(panel.background = element_blank())"

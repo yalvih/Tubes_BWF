@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Height dan Category"
-"0","ggplot(BWF_players, aes(x = Category,y=Height))+"
-"0","  geom_boxplot()+"
-"0","  xlab(""Category"")+"
-"0","  ylab(""Height"")+"
-"0","  ggtitle(""Boxplot Antara Height dan Category dalam Permainan Bulu Tangkis"")+"
-"0","  theme(panel.background = element_blank())"

@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Age dan Medals"
-"0","ggplot(BWF_players, aes(x = Age, y = Medals))+"
-"0","  geom_point()+"
-"0","  xlab(""Age"")+"
-"0","  ylab(""Medals"")+"
-"0","  ggtitle(""Scatterplot Hubungan Age dan Medals"")+"
-"0","  theme(panel.background = element_blank())"

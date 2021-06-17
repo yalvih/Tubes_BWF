@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Medals dan Multiple"
-"0","ggplot(BWF_players, aes(x = Multiple,y=Medals))+"
-"0","  geom_boxplot()+"
-"0","  xlab(""Multiple"")+"
-"0","  ylab(""Medals"")+"
-"0","  ggtitle(""Boxplot Antara Medals dan Multiple dalam Permainan Bulu Tangkis"")+"
-"0","  theme(panel.background = element_blank())"

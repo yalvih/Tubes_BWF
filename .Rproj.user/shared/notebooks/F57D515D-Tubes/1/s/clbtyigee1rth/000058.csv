@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Medals dan Career"
-"0","ggplot(BWF_players, aes(x = Medals, y = Career))+"
-"0","  geom_point()+"
-"0","  xlab(""Medals"")+"
-"0","  ylab(""Career"")+"
-"0","  ggtitle(""Scatterplot Hubungan Medals dan Career"")+"
-"0","  theme(panel.background = element_blank())"

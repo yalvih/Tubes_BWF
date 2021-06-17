@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Age dan Career"
-"0","ggplot(BWF_players, aes(x = Career, y = Age))+"
-"0","  geom_point()+"
-"0","  xlab(""Career"")+"
-"0","  ylab(""Umur"")+"
-"0","  ggtitle(""Scatterplot Hubungan Career dan Age"")+"
-"0","  theme(panel.background = element_blank())"

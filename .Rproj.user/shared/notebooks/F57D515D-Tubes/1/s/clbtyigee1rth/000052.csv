@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Height dan Career"
-"0","ggplot(BWF_players, aes(x = Height, y = Career))+"
-"0","  geom_point()+"
-"0","  xlab(""Height"")+"
-"0","  ylab(""Career"")+"
-"0","  ggtitle(""Scatterplot Hubungan Height dan Career"")+"
-"0","  theme(panel.background = element_blank())"

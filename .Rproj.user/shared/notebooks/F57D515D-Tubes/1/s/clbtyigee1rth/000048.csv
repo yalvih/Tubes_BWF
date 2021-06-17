@@ -1,8 +1,0 @@
-"0",""
-"0","#Bivariat Antara Height dan Continent"
-"0","ggplot(BWF_players, aes(x = Continent,y=Height))+"
-"0","  geom_boxplot()+"
-"0","  xlab(""Continent"")+"
-"0","  ylab(""Height"")+"
-"0","  ggtitle(""Boxplot Antara Height dan Continent dalam Permainan Bulu Tangkis"")+"
-"0","  theme(panel.background = element_blank())"

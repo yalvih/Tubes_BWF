@@ -1,5 +1,0 @@
-"0","BWF_players = read.csv(file=""BWF_players.csv"", header = TRUE, sep="","", dec=""."", na.strings=""NA"")"
-"0",""
-"0","#Data NA"
-"0","na_data = BWF_players[!complete.cases(BWF_players),]"
-"0","head(na_data)"
